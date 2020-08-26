@@ -1,0 +1,2 @@
+* clientside-only one-off projects
+https://niklasfasching.github.io/clientside/index.html
